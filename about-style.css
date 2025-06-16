@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(235, 230, 230);
+  color: #00ffcc;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+h1.heading {
+    text-align: center;
+    color: #DAA520	;
+    font-size: 80px;
+    margin-bottom: 10px;
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+}
+
+h1.tagline {
+    text-align: center;
+    color: Teal;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+h2.about-Acupressure {
+    text-align: center;
+    color: #DAA520;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+h2.how-it-works {
+    text-align: center;
+    color: #DAA520;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+h2.our-products {
+    text-align: center;
+    color: #DAA520;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+h2.contact-us {
+    text-align: left;
+    color: #DAA520;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+  font-family:'Times New Roman', serif;
+  text-align: left;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+ul {
+  color: CadetBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+address {
+  color: CadetBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+.product-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  font-size: 20px;
+  color: #468189;
+  font-family: 'Georgia', sans-serif;
+}
+
+.product-name {
+  flex: 1;
+  text-align: left;
+  font-size: 30px;
+}
+
+.dash {
+  width: 30px;
+  text-align: center;
+  color: #333;
+}
+
+.product-use {
+  flex: 2;
+  text-align: center;
+  font-family: 'Georgia', sans-serif;
+  font-size: 30px;
+}
+

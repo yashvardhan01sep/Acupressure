@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(235, 230, 230);
+  color: #00ffcc;
+  font-family: 'Segoe UI', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+h1.title {
+  text-align: center;
+  color: #DAA520;
+  font-size: 80px;
+  border: 4px solid #CED4DA;
+  margin-bottom: 10px;
+  font-family: Montserrat, sans-serif;
+  padding: 20px;
+}
+
+h1.tagline {
+  text-align: center;
+  color: Teal;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+h2.about-us {
+  text-align: center;
+  color: ForestGreen;
+  font-size: 50px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  font-family: Almiera, sans-serif;
+}
+
+h2.introduction {
+  text-align: center;
+  color: ForestGreen;
+  font-size: 50px;
+  margin-top: 20px;
+  font-family: Almiera, sans-serif;
+}
+
+h2.benefits-title {
+  text-align: center;
+  color: ForestGreen;
+  font-size: 50px;
+  margin-top: 20px;
+  font-family: Almiera, sans-serif;
+}
+
+h2.who-uses-title {
+  text-align: center;
+  color: ForestGreen;
+  font-size: 50px;
+  margin-top: 30px;
+  font-family: Almiera, sans-serif;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family:'Times New Roman', serif;
+  text-align: left;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+h2.acupressure {
+  text-align: left;
+  color: DarkCyan;
+  font-size: 30px;
+  margin-top: 30px;
+  font-family: Poppins, sans-serif;
+}
+
+p.Quote {
+  font-style: italic;
+   color: rgb(0, 0, 0);
+  font-family:'Times New Roman', serif;
+  text-align: left;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+ul {
+  color: CadetBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
